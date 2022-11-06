@@ -107,5 +107,8 @@
       }
     }
   },
-  "defaultProject": "angular12app"
+  "defaultProject": "angular12app",
+  "cli": {
+    "analytics": false
+  }
 }
